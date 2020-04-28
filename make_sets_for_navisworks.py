@@ -290,7 +290,7 @@ class GetIDMdata():
         
         print ('get phase')
         
-        pset_phase_list =['Phasing','AC_Pset_RenovationAndPhasing','CPset_Phasing', 'Phase', 'Phase Created', 'Renovation Status']
+        pset_phase_list =['Phasing','AC_Pset_RenovationAndPhasing','Pset_Phasing', 'Phase', 'Phase Created', 'Renovation Status']
         phase_list = []
         phase_name_list = []
         
